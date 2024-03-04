@@ -1,7 +1,36 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Will a customer accept the coupon?
+> 
+The objective of this project is to leverage knowledge in visualizations and probability distributions to differentiate between customers who accepted a driving coupon and those who did not.  I will be using data analysis and visualizations using Python. 
+
 ####
+
+Usage
+Open the Jupyter Notebook (prompt_JC.ipynb) using Jupyter Notebook or JupyterLab.
+Execute the code cells to perform the analysis.
+View the generated bar charts to visualize acceptance rates under different conditions.
+
+Technologies and methods
+Python 
+Python libraries: 
+matplotlib
+seaborn
+pandas
+numpy
+
+Data
+The analysis is based on a dataset containing information about drivers, their passengers, and their visits to bars. Ensure that your dataset follows a similar structure for the code to work correctly.
+
+Important Note
+Make sure to modify the filtering conditions and column names in the code according to your dataset's actual structure.
+License
+This project is open source.
+
+Feel free to reach out if you have any questions or encounter any issues!
+
+
+
+
+
 copied
 1. Project's Title
 This is the name of the project. It describes the whole project in one sentence, and helps people understand what the main goal and aim of the project is.
