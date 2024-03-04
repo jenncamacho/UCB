@@ -28,6 +28,12 @@ numpy
 Important Note
 Make sure to modify the filtering conditions and column names in the code according to your dataset's actual structure.
 
+## Findings
+- Coupons that had a longer expiration time of 1 day had a higher acceptance rate than coupons that expired in 2 hours.
+It would be recommended that more coupons be offered that have longer expiration times.
+- Bar coupons have a lower acceptance rate than other resturant categories.
+- Bar coupons have a higher acceptance rate with drivers under 25 years old and with driver who go to bars more than 3 times a month.
+  
 ## License
 - This project is open source.
 
